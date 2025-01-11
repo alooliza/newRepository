@@ -1,3 +1,4 @@
+{
 "user": [
 {
     "id":1,
@@ -5,6 +6,46 @@
     "sirname": "Moskalenko",
     "photo_url": "https://222",
     "balance": 2
+},
+{
+    "id":2,
+    "name":"Olichka",
+    "sirname": "Glamur",
+    "photo_url": "https://333",
+    "balance": 999
+},
+{
+    "id":3,
+    "name":"Kolichka",
+    "sirname": "Pisatdva",
+    "photo_url": "https://5252",
+    "balance": 52
 }
+],
+"products": [
+    {
+        "id":4,
+        "name":"Kola",
+        "taste":"vkysneniko",
+        "photo_url": "https://777",
+        "price":15000 
+    },
+    {
+        "id":5,
+        "name":"Smetanka",
+        "taste":"kisleniko",
+        "photo_url": "https://3232",
+        "price":150 
+    },
+    {
+        "id":6,
+        "name":"Hleb",
+        "taste":"soleneniko",
+        "photo_url": "https://797",
+        "price":1500 
+    },
+
 
 ]
+
+}
